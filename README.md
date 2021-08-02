@@ -1,7 +1,7 @@
 # Grant-Milestone-Delivery  
 📢 Repository to submit finished milestones
 
-The Milestone Delivery process is part of the Gate.io grant program. You can find the application process here
+The Milestone Delivery process is part of the Gate.io grant program. You can find the [application process](https://github.com/GateChain-Foundation/Grant-Milestone-Delivery) here
 
 ## Milestone Delivery
 a.  Fork this code base using the same GitHub account you used to submit your application.   
