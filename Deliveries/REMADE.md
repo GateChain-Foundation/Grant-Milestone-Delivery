@@ -1,14 +1,20 @@
-# GateChain Grant Milestone Delivery
-## 里程碑交付
-a. 使用您用于提交应用程序的相同 GitHub 帐户Fork此代码库。  
-b. 在新创建的分支中，创建里程碑交付模板 ( deliveries/milestone-delivery-template.md)的副本。如果您使用的是 GitHub Web 界面，则需要创建一个新文件并将模板的内容复制到新文件中，请不要直接修改模板文件。  
-c. 命名文件project_name-milestone_number.md。  
-d. 使用里程碑的详细信息填写模板，包括指向申请Pull Request的链接。  
-e. 完成后，创建一个Pull Request。
+# Milestone Delivery :mailbox:
 
-## 里程碑回顾
-a. 基金会可以对Pull Request发表评论和请求更改，在您的里程碑被接受之前，他们的反馈需要得到解决。  
-b. 基金会将合并您的Pull Request以接受交付。
+> ⚡ Only the GitHub account, which is responsible for the pull request of the accepted application is allowed to submit milestones. 
+> 
+> Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with `>`, such as this one, can be removed.
 
-## 里程碑付款
-a. 一旦交付被接受，基金会将会付款到初始申请中指定的GateChain地址。
+**The [invoice form :pencil:](https://docs.google.com/forms/d/e/1FAIpQLSfmNYaoCgrxyhzgoKQ0ynQvnNRoTmgApz9NrMp-hd8mhIiO0A/viewform) has been filled out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/milestone-deliverables-guidelines.md).**  
+
+* **Application Document:** Please, provide a link to the merged contract (the `.md` file in the [applications](https://github.com/w3f/Grants-Program/tree/master/applications) directory). 
+* **Milestone Number:** The number of the milestone
+
+> Please provide a list of all deliverables of the milestone extracted from the initial application and a link to the deliverable itself. Ideally all links inside the below table should include a commit hash, which will be used for testing. If you don't provide a commit hash, we will work off the default branch of your repository. Thus, if you plan on continuing work after delivery, we suggest you create a separate branch for either the delivery or your continuing work. 
+> 
+> If there is anything particular about any of the deliverables we or a future reader should know, use the respective `Notes` column.
+
+| Number | Deliverable | Link | Notes |
+| ------------- | ------------- | ------------- |------------- |
+| 1. | ... |...| ...| 
+| 2.  | ... |...| ...| 
+
